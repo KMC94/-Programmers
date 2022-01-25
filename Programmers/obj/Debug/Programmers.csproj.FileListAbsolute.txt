@@ -1,0 +1,7 @@
+C:\Users\money\source\repos\Programmers\bin\Debug\Programmers.exe.config
+C:\Users\money\source\repos\Programmers\bin\Debug\Programmers.exe
+C:\Users\money\source\repos\Programmers\bin\Debug\Programmers.pdb
+C:\Users\money\source\repos\Programmers\obj\Debug\Programmers.csproj.AssemblyReference.cache
+C:\Users\money\source\repos\Programmers\obj\Debug\Programmers.csproj.CoreCompileInputs.cache
+C:\Users\money\source\repos\Programmers\obj\Debug\Programmers.exe
+C:\Users\money\source\repos\Programmers\obj\Debug\Programmers.pdb
