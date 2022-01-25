@@ -1,0 +1,16 @@
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.exe
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.deps.json
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.runtimeconfig.json
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.runtimeconfig.dev.json
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.dll
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\ref\Programmers_4.dll
+D:\Programmers\Programmers\Programmers_4\bin\Debug\net5.0\Programmers_4.pdb
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.csproj.AssemblyReference.cache
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.AssemblyInfoInputs.cache
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.AssemblyInfo.cs
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.csproj.CoreCompileInputs.cache
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.dll
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\ref\Programmers_4.dll
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.pdb
+D:\Programmers\Programmers\Programmers_4\obj\Debug\net5.0\Programmers_4.genruntimeconfig.cache
