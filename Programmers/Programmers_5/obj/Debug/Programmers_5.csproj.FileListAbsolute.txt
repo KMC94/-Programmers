@@ -1,0 +1,7 @@
+D:\Programmers\Programmers\Programmers_5\bin\Debug\Programmers_5.exe.config
+D:\Programmers\Programmers\Programmers_5\bin\Debug\Programmers_5.exe
+D:\Programmers\Programmers\Programmers_5\bin\Debug\Programmers_5.pdb
+D:\Programmers\Programmers\Programmers_5\obj\Debug\Programmers_5.csproj.AssemblyReference.cache
+D:\Programmers\Programmers\Programmers_5\obj\Debug\Programmers_5.csproj.CoreCompileInputs.cache
+D:\Programmers\Programmers\Programmers_5\obj\Debug\Programmers_5.exe
+D:\Programmers\Programmers\Programmers_5\obj\Debug\Programmers_5.pdb
